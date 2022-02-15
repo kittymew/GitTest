@@ -8,3 +8,6 @@ it's second commit
 it's third commit on branch 1 but not branch 2
 
 -it's first commit on main
+
+
+first commit on branch3 
