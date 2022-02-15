@@ -13,3 +13,6 @@ it's third commit on branch 1 but not branch 2
 first commit on branch3 
 
 second commit on branch3
+
+
+main commit for conflict
